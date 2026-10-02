@@ -1,5 +1,18 @@
+<div align="center">
+
 # Simon Ngoy Mukendi
 ### Senior Systems & Kernel Engineer | EDR/XDR & Hypervisor Architecture
+
+*"Understanding why a detection fails is the first step to building one that doesn't."*
+
+[![Blog](https://img.shields.io/badge/Blog-mukendi.github.io-1B4F72?style=flat-square&logo=github)](https://mukendi.github.io/blog-security)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Ngoy-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simon-ngoy-1a9371103)
+
+</div>
+
+---
+
+## About
 
 I am a Low-Level Systems Engineer and Security Researcher specializing in **Windows NT Kernel Internals**, **Hypervisor Development (VMX/EPT)**, and **High-Throughput Endpoint Telemetry Engines**.
 
