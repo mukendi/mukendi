@@ -1,7 +1,7 @@
 <div align="center">
 
 # Simon Ngoy Mukendi
-### Senior Systems & Kernel Engineer | EDR/XDR & Hypervisor research
+### Systems Security Researcher / Engineer
 
 *"Understanding why a detection fails is the first step to building one that doesn't."*
 
