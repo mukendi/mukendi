@@ -1,22 +1,23 @@
-<div align="center">
-
 # Simon Ngoy Mukendi
-###  Security Engineer System · Windows Internals · EDR/XDR
+### Senior Systems & Kernel Engineer | EDR/XDR & Hypervisor Architecture
 
-*"Understanding why a detection fails is the first step to building one that doesn't."*
+I am a Low-Level Systems Engineer and Security Researcher specializing in **Windows NT Kernel Internals**, **Hypervisor Development (VMX/EPT)**, and **High-Throughput Endpoint Telemetry Engines**.
 
-[![Blog](https://img.shields.io/badge/Blog-mukendi.github.io-1B4F72?style=flat-square&logo=github)](https://mukendi.github.io/blog-security)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Ngoy-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simon-ngoy-1a9371103)
-
-</div>
+My work focuses on the intersection of systems software engineering, privilege-level isolation, and real-time security agent resilience—building kernel-mode and virtualization components designed for high stability, zero-BSOD reliability, and fleet-scale performance.
 
 ---
 
-## About
+### 🛠️ Core Capabilities & Systems Toolchain
 
-Security Engineer specializing in Windows internals, kernel and user-mode systems, and endpoint security engineering. My work spans C/C++ and Rust systems development, EDR/XDR research, Windows kernel development, and virtualization security, with an emphasis on understanding complex security mechanisms from both engineering and adversarial perspectives.
+- **Low-Level Engineering:** Windows Kernel (WDK), Minifilter Drivers, x64 Assembly, C/C++20.
+- **Virtualization & Isolation:** VMX/SVM Mechanics, Extended Page Tables (EPT/SLAT), Hyper-V Internals, VBS/HVCI.
+- **Diagnostics & Debugging:** WinDbg (Kernel/Crash Dump Analysis), IDA Pro, Ghidra.
+- **Telemetry & Systems Architecture:** Lock-free Atomic Queues, ETW (Event Tracing for Windows), Kernel Callbacks, Anti-BYOVD Mitigations, Non-Paged Pool Memory Optimization.
 
-- 🔬 **Current focus** : EDR/XDR security research, kernel driver engineering, Virtualization
-- 🛠️ **Languages** : C/C++20, Rust, x86/x64 Assembly
-- 📍 **Blog** : [mukendi.github.io/blog-security](https://mukendi.github.io/blog-security)
+---
 
+### 🌐 Engagement & Working Model
+
+- **Role Focus:** Senior / Staff Systems Engineer, Kernel Engineer, EDR/XDR Sensor Architect, Virtualization Engineer.
+- **Collaboration Model:** Available for **Global Remote** roles, **International Contractor (B2B)** engagements, or specialized consulting on kernel driver stability and hypervisor research.
+- **Contact:** [LinkedIn](https://linkedin.com/in/votre-profil) | **Email:** ngoymukendix@gmail.com
