@@ -20,17 +20,3 @@ Security Engineer specializing in Windows internals, kernel and user-mode system
 - 🛠️ **Languages** : C/C++20, Rust, Python, x86/x64 Assembly
 - 📍 **Blog** : [mukendi.github.io/blog-security](https://mukendi.github.io/blog-security)
 
----
-
-## Research & Publications
-
-| | Title | Description |
-|---|---|---|
-| 📄 | [Module Overloading — Bypassing EDR/XDR via Trust Inheritance](https://mukendi.github.io/blog-security/blog-module-overloading.html) | Full EDR bypass via SEC_IMAGE trust mechanics — zero detections on live Sophos XDR and BitDefender |
-| 📄 | [CVE-2021-21551 — Dell Driver BYOVD / LPE](https://mukendi.github.io/blog-security/blog-cve-2021-21551-secretclub.html) | Full exploit chain: static analysis → WinDbg kernel debugging → token-stealing LPE |
-| 📄 | [Project Kratos — Anti-Ransomware MiniFilter Driver](https://mukendi.github.io/blog-security/blog-project-kratos.html) | Behavioral ransomware detection at the I/O stack level via Windows kernel minifilter |
-
-
----
-
-## Core Competencies
