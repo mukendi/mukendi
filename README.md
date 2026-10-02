@@ -1,7 +1,7 @@
 <div align="center">
 
 # Simon Ngoy Mukendi
-### Offensive Security Researcher · Windows Internals · EDR/XDR
+###  Security Engineer System · Windows Internals · EDR/XDR
 
 *"Understanding why a detection fails is the first step to building one that doesn't."*
 
@@ -14,9 +14,9 @@
 
 ## About
 
-Offensive security researcher focused on Windows kernel internals, EDR/XDR research, and adversarial technique analysis. I build and break endpoint security tooling from both sides — offensive PoCs and defensive detection components — and publish my research findings publicly.
+Security Engineer specializing in Windows internals, kernel and user-mode systems, and endpoint security engineering. My work spans C/C++ and Rust systems development, EDR/XDR research, Windows kernel development, and virtualization security, with an emphasis on understanding complex security mechanisms from both engineering and adversarial perspectives.
 
-- 🔬 **Current focus** : EDR/XDR bypass research, kernel driver engineering, AI security
+- 🔬 **Current focus** : EDR/XDR security research, kernel driver engineering, Virtualization
 - 🛠️ **Languages** : C/C++20, Rust, Python, x86/x64 Assembly
 - 📍 **Blog** : [mukendi.github.io/blog-security](https://mukendi.github.io/blog-security)
 
@@ -30,16 +30,6 @@ Offensive security researcher focused on Windows kernel internals, EDR/XDR resea
 | 📄 | [CVE-2021-21551 — Dell Driver BYOVD / LPE](https://mukendi.github.io/blog-security/blog-cve-2021-21551-secretclub.html) | Full exploit chain: static analysis → WinDbg kernel debugging → token-stealing LPE |
 | 📄 | [Project Kratos — Anti-Ransomware MiniFilter Driver](https://mukendi.github.io/blog-security/blog-project-kratos.html) | Behavioral ransomware detection at the I/O stack level via Windows kernel minifilter |
 
----
-
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [DetectorOne](https://github.com/mukendi/DetectorOne) | Kernel-mode EDR research agent — BYOVD detection, shellcode analysis via heuristic RWX/RX memory inspection, libyara integration | C++20, WDK |
-| [ArgusVisor](https://github.com/mukendi/ArgusVisor) | Research hypervisor monitoring VMX execution and Extended Page Tables (EPT) under Windows x64 | C++, Intel VT-x |
-| [Kratos](https://github.com/mukendi/kratosminifilter) | Windows kernel minifilter driver for behavioral ransomware detection at the I/O stack level | C++, KMDF |
-| [Virunga](https://github.com/mukendi/Virunga) | BYOVD EDR silencing research PoC — Ring 0/Ring 3 kernel telemetry validation via signed vulnerable driver | C++ |
 
 ---
 
