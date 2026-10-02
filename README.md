@@ -17,6 +17,6 @@
 Security Engineer specializing in Windows internals, kernel and user-mode systems, and endpoint security engineering. My work spans C/C++ and Rust systems development, EDR/XDR research, Windows kernel development, and virtualization security, with an emphasis on understanding complex security mechanisms from both engineering and adversarial perspectives.
 
 - 🔬 **Current focus** : EDR/XDR security research, kernel driver engineering, Virtualization
-- 🛠️ **Languages** : C/C++20, Rust, Python, x86/x64 Assembly
+- 🛠️ **Languages** : C/C++20, Rust, x86/x64 Assembly
 - 📍 **Blog** : [mukendi.github.io/blog-security](https://mukendi.github.io/blog-security)
 
