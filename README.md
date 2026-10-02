@@ -20,4 +20,4 @@ My work focuses on the intersection of systems software engineering, privilege-l
 
 - **Role Focus:** Senior / Staff Systems Engineer, Kernel Engineer, EDR/XDR Sensor Architect, Virtualization Engineer.
 - **Collaboration Model:** Available for **Global Remote** roles, **International Contractor (B2B)** engagements, or specialized consulting on kernel driver stability and hypervisor research.
-- **Contact:** [LinkedIn](https://linkedin.com/in/votre-profil) | **Email:** ngoymukendix@gmail.com
+- **Contact:** [LinkedIn]( https://www.linkedin.com/in/simon-ngoy-1a9371103) | **Email:** ngoymukendix@gmail.com
