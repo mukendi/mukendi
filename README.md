@@ -3,7 +3,7 @@
 
 I am a Low-Level Systems Engineer and Security Researcher specializing in **Windows NT Kernel Internals**, **Hypervisor Development (VMX/EPT)**, and **High-Throughput Endpoint Telemetry Engines**.
 
-My work focuses on the intersection of systems software engineering, privilege-level isolation, and real-time security agent resilience—building kernel-mode and virtualization components designed for high stability, zero-BSOD reliability, and fleet-scale performance.
+My work focuses on the intersection of systems software engineering, privilege-level isolation, and real-time security agent resilience building kernel-mode and virtualization components designed for high stability, zero-BSOD reliability, and fleet-scale performance.
 
 ---
 
@@ -16,7 +16,7 @@ My work focuses on the intersection of systems software engineering, privilege-l
 
 ---
 
-### 🌐 Engagement & Working Model
+### 🌐 Engagement
 
 - **Role Focus:** Senior / Staff Systems Engineer, Kernel Engineer, EDR/XDR Sensor Architect, Virtualization Engineer.
 - **Contact:** [LinkedIn]( https://www.linkedin.com/in/simon-ngoy-1a9371103) | **Email:** ngoymukendix@gmail.com
