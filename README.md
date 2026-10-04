@@ -14,9 +14,9 @@
 
 ## About
 
-I am a Low-Level Systems Engineer and Security Researcher specializing in **Windows NT Kernel Internals**, **Hypervisor Development (VMX/EPT)**, and **High-Throughput Endpoint Telemetry Engines**.
+I am a Low-Level Systems Engineer and Security Researcher specializing in **Windows Internals**, **Hypervisor of Security Development**, and **High-Throughput Endpoint Telemetry Engines**.
 
-My work focuses on the intersection of systems software engineering, privilege-level isolation, and real-time security agent resilience building kernel-mode and virtualization components designed for high stability, zero-BSOD reliability, and fleet-scale performance.
+My work focuses on the intersection of systems software engineering, privilege-level isolation, and real-time security agent resilience building kernel-mode and virtualization components designed for high stability, reliability, and fleet-scale performance.
 
 ---
 
