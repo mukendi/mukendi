@@ -22,6 +22,4 @@ My work focuses on the intersection of systems software engineering, privilege-l
 
 ### 🌐 Engagement
 
-- **Role Focus:** Senior / Staff Systems Engineer, Kernel Engineer, EDR Sensor Architect. 
-- **LinkedIn:** [LinkedIn]( https://www.linkedin.com/in/simon-ngoy-1a9371103)
-- **Email:** ngoymukendix@gmail.com
+- **Role Focus:** Senior / Staff Systems Engineer, Kernel Engineer, EDR Sensor Architect.
